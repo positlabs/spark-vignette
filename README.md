@@ -1,10 +1,10 @@
-## Vignettes in Spark AR
+## Vignettes and 2d Face Tracking in Spark AR
 
 Learn how to make a vignette and make it follow a face with the `FaceTracking` module!
 
-[Tutorial on YouTube]()
+[Tutorial on YouTube](https://www.youtube.com/watch?v=qw4QU-edVKw)
 
-[![](./screenshot.jpg)]()
+[![](./screenshot.jpg)](https://www.youtube.com/watch?v=qw4QU-edVKw)
 
 
 ## Resources
